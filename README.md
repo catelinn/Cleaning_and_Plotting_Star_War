@@ -1,6 +1,6 @@
-# Clean and Explore the Star War Survey Data
+# Overview
 
-This is one of the guided projects in the **Data Analysis and Visulization** with focus on cleaning and visualization. The project is based on the 835 respnoses to the survey conducted by *FiveThirtyEight* concerning the first 6 Star War movies. 
+This is one of the guided projects in the **Data Analysis and Visulization** with focus on cleaning and visualization. The project is based on the 835 respnoses to the survey conducted by *FiveThirtyEight* concerning the first 6 episodes of Star War movie.
 
 In the first project notebook, I followed the steps in the course to answer the question: ***Does most America realize that “The Empire Strikes Back” is clearly the best of the bunch?***
 
